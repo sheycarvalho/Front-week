@@ -1,1 +1,1 @@
-Site Responsivo feito HTML, CSS e JavaScript.
+Responsive Website made with HTML, CSS and JavaScript.
